@@ -65,6 +65,7 @@ function half_setup() {
 	 */
 	add_theme_support( 'post-formats', array(
 		'aside',
+		'gallery',
 		'image',
 		'video',
 		'quote',
