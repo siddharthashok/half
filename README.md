@@ -1,0 +1,2 @@
+# half
+Half WordPress theme
